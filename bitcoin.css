@@ -1,0 +1,71 @@
+body
+{
+	margin-top: -5px;
+}
+* 
+{
+color: rgba(0, 0, 0, 0.84);
+}
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:black;
+}
+
+li 
+{
+  float: left;
+}
+
+li a 
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (white) on hover */
+li a:hover 
+{
+  background-color: #696969;
+}
+h1
+{
+	text-align:center;
+}
+p
+{
+font-size: 19px;
+}
+li
+{
+font-size:20px;
+}
+h1
+{
+font-size:40px;
+}
+table
+{
+	border-collapse:collapse;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+}
+td,th
+{
+	border: 2px solid black;
+	text-align:center;
+	padding:50px;
+}
